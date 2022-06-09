@@ -42,6 +42,8 @@ https://guides.github.com/introduction/flow/
 
 ## Stakeholders
 
+Sally Shi
+
 Charreau Bell, co-instructor
 
 Jesse Spencer-Smith, co-instructor
